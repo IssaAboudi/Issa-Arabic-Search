@@ -1,0 +1,9 @@
+.search-result-entry {
+	color: white;
+	margin-bottom: 8px; /* More space between entries */
+	cursor: pointer; /* Indicate clickable */
+}
+
+.search-result-entry:hover {
+	background-color: #808080; /* Highlight on hover */
+}

@@ -1,0 +1,10 @@
+{
+	"id": "issa-arabic-search",
+	"name": "Issa Arabic Search",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Turn your vault into a arabic-english dictionary with proper searching",
+	"author": "Issa",
+	"authorUrl": "https://matthewissa.com",
+	"isDesktopOnly": false
+}
